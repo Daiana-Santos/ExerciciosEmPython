@@ -1,4 +1,4 @@
-# ExerciciosEmPython
+# ExerciciosEmPythonComPyCharm
  Exercicios do Curso Em Video com Professor Guanabara
  
  - Ex01_Códico simples apenas para mostrar as diferentes formas de um Print e o uso do **Format**.
