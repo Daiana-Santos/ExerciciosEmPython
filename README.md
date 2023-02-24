@@ -1,5 +1,5 @@
 # ExerciciosEmPythonComPyCharm
- Exercicios do Curso Em Video com Professor Guanabara
+ Exercicios do Curso Em Video com Professor Guanabara usando a IDE Pycharm.
  
  - Ex01_Códico simples apenas para mostrar as diferentes formas de um Print e o uso do **Format**.
  - Ex02_Programa para mostrar a tabuada de forma simples, apenas com formatação de cores.
